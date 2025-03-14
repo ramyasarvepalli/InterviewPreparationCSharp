@@ -22,7 +22,7 @@ namespace InterviewPreparationCSharp
 
         public string MyFunction()
         {
-            return "Hi from StringFunctions class";
+            return "Hi from StringOperations class";
         }
 
         //Concatenation
