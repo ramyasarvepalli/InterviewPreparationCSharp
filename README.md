@@ -1,3 +1,3 @@
 # 
-Basic string operations
+Basic string operations,
 Linq queries
