@@ -1,1 +1,3 @@
-# InterviewPreparationCSharp
+# 
+Basic string operations
+Linq queries
